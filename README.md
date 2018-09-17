@@ -18,6 +18,12 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
   - [Deep Neural Networks - Deep Neural Network for Image Classification: Application](https://github.com/skagrawal/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
 
 - Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+  - [Practical aspects of Deep Learning - Initialization](https://github.com/skagrawal/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Initialization.ipynb)
+  - [Practical aspects of Deep Learning - Regularization]()
+  - [Practical aspects of Deep Learning - Gradient Checking]()
+  - [Optimization algorithms - Optimization]()
+  - [Hyperparameter tuning, Batch Normalization and Programming Frameworks - Tensorflow]()
+
 
 - Course 3: Structuring Machine Learning Projects
   
