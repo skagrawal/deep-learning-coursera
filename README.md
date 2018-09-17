@@ -14,8 +14,8 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 
   - [Neural Networks Basics - Logistic Regression with a Neural Network mindset](https://github.com/skagrawal/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv5.ipynb)
   - [Shallow neural networks - Planar data classification with one hidden layer](https://github.com/skagrawal/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Planar%2Bdata%2Bclassification%2Bwith%2Bone%2Bhidden%2Blayer%2Bv5.ipynb)
-  - [Deep Neural Networks - Building your Deep Neural Network: Step by Step]()
-  - [Deep Neural Networks - Deep Neural Network for Image Classification: Application]()
+  - [Deep Neural Networks - Building your Deep Neural Network: Step by Step](https://github.com/skagrawal/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Building%2Byour%2BDeep%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2Bv8.ipynb)
+  - [Deep Neural Networks - Deep Neural Network for Image Classification: Application](https://github.com/skagrawal/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
 
 - Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
