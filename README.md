@@ -1,6 +1,6 @@
 # Deep Learning Specialization on Coursera
 
-**Master Deep Learning**
+**Master Deep Learning concepts**
 
 Instructor: [Andrew Ng](http://www.andrewng.org/)
 
