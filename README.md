@@ -20,8 +20,8 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 - Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
   - [Practical aspects of Deep Learning - Initialization](https://github.com/skagrawal/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Initialization.ipynb)
   - [Practical aspects of Deep Learning - Regularization](https://github.com/skagrawal/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Regularization%2B-%2Bv2.ipynb)
-  - [Practical aspects of Deep Learning - Gradient Checking]()
-  - [Optimization algorithms - Optimization]()
+  - [Practical aspects of Deep Learning - Gradient Checking](https://github.com/skagrawal/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Gradient%2BChecking%2Bv1.ipynb)
+  - [Optimization algorithms - Optimization](https://github.com/skagrawal/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Optimization%2Bmethods.ipynb)
   - [Hyperparameter tuning, Batch Normalization and Programming Frameworks - Tensorflow]()
 
 
